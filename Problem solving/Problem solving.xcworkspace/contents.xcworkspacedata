@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Designer PDF Viewer/Designer PDF Viewer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Sherlock and Array/Sherlock and Array.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Missing numbers/Missing numbers.xcodeproj">
    </FileRef>
    <FileRef
